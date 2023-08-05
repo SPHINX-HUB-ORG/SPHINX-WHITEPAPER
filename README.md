@@ -25,7 +25,7 @@ We welcome contributions from the community. To contribute to this project, foll
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
-By contributing to this project, you agree to abide by the [Code of Conduct](PQC%20Frameworks.rb).
+By contributing to this project, you agree to abide by the [Code of Conduct](https://github.com/SPHINX-HUB-ORG/SPHINX-HUB).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
